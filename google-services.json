@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081846845947",
+    "project_id": "alummu-6b8cb",
+    "storage_bucket": "alummu-6b8cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081846845947:android:ffb59d36e0ea7368703b5e",
+        "android_client_info": {
+          "package_name": "com.alummu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSg-AeEsSU9umo13Fvp-oW_rwdApfF1Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
